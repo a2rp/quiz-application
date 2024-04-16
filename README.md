@@ -1,3 +1,7 @@
+
+![image](https://github.com/a2rp/quiz-application/assets/5670738/9308b503-a270-4a56-b50e-ae20f5dc271a)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
