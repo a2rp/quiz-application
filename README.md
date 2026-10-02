@@ -1,5 +1,7 @@
 # Quiz Application
 
+![Quiz Application preview](screenshot.png)
+
 A compact React quiz for answering five everyday questions, reviewing feedback, and tracking a live score.
 
 ## Features
