@@ -31,8 +31,6 @@ npm run build
 npm run deploy
 ```
 
-![Quiz Application preview](screenshot.png)
-
 ## Links
 
 - Portfolio: [https://www.ashishranjan.net/](https://www.ashishranjan.net/)

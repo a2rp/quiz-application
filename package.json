@@ -1,5 +1,5 @@
 {
-  "name": "6-quiz-application",
+  "name": "quiz-application",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -21,7 +21,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build && copy build\\\\index.html build\\\\404.html",
+    "predeploy": "npm run build && node -e \"require('node:fs').copyFileSync('build/index.html', 'build/404.html')\"",
     "deploy": "npx --yes gh-pages -d build -b gh-pages"
   },
   "eslintConfig": {
